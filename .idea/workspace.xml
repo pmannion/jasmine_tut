@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd46ad-7ea8-4e18-a140-8634f95c003d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/ConverterSpec.js" afterPath="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/SpecRunner.html" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
+      <change type="MOVED" beforePath="C:\Users\Paul\Desktop\jasmine\js\vendor\converter.js" afterPath="$PROJECT_DIR$/js/converter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jasmine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393444555809" ignored="false" />
+    <file path="/Dummy.txt" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393445795280" ignored="false" />
     <file path="/SpecRunner.html" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393445744020" ignored="false" />
     <file path="/converter.js" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393444461129" ignored="false" />
     <file path="/ConverterSpec.js" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393444922510" ignored="false" />
@@ -61,14 +60,14 @@
       <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="1" selection-start="697" selection-end="697" vertical-scroll-proportion="0.5503597">
+            <state line="16" column="49" selection-start="658" selection-end="658" vertical-scroll-proportion="0.48920864">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="converter.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/vendor/converter.js">
+        <entry file="file://$PROJECT_DIR$/js/converter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="9" column="41" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
               <folding />
@@ -233,24 +232,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasmine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasmine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -281,6 +262,7 @@
       <recent name="C:\Users\Paul\Desktop\jasmine\test\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Paul\Desktop\jasmine\js" />
       <recent name="C:\Users\Paul\Desktop\jasmine\test" />
     </key>
   </component>
@@ -402,7 +384,11 @@
       <created>1393444559616</created>
       <updated>1393444559616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added spec/ConverterSpec added to specRunner">
+      <created>1393445798092</created>
+      <updated>1393445798092</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -472,7 +458,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Converter added with some skeleton code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added spec/ConverterSpec added to specRunner" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -489,6 +475,7 @@
     <MESSAGE value="tester" />
     <MESSAGE value="move html file into test folder" />
     <MESSAGE value="Converter added with some skeleton code" />
+    <MESSAGE value="added spec/ConverterSpec added to specRunner" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -508,7 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/vendor/converter.js">
+    <entry file="file://$PROJECT_DIR$/js/converter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="41" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
           <folding />
@@ -524,7 +511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="697" selection-end="697" vertical-scroll-proportion="0.5503597">
+        <state line="16" column="49" selection-start="658" selection-end="658" vertical-scroll-proportion="0.48920864">
           <folding />
         </state>
       </provider>

@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd46ad-7ea8-4e18-a140-8634f95c003d" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\Paul\Desktop\jasmine\js\vendor\converter.js" afterPath="$PROJECT_DIR$/js/converter.js" />
+      <change type="MOVED" beforePath="C:\Users\Paul\Desktop\jasmine\test\spec\ConverterSpec.js" afterPath="$PROJECT_DIR$/test/js/ConverterSpec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/SpecRunner.html" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/converter.js" afterPath="$PROJECT_DIR$/js/converter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jasmine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393445795280" ignored="false" />
-    <file path="/SpecRunner.html" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393445744020" ignored="false" />
-    <file path="/converter.js" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393444461129" ignored="false" />
+    <file path="/Dummy.txt" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393445918206" ignored="false" />
+    <file path="/SpecRunner.html" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393445961584" ignored="false" />
+    <file path="/converter.js" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393447003069" ignored="false" />
     <file path="/ConverterSpec.js" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393444922510" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +51,9 @@
         </entry>
       </file>
       <file leaf-file-name="ConverterSpec.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
+        <entry file="file://$PROJECT_DIR$/test/js/ConverterSpec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="25" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+            <state line="9" column="39" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -60,7 +62,7 @@
       <file leaf-file-name="SpecRunner.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="49" selection-start="658" selection-end="658" vertical-scroll-proportion="0.48920864">
+            <state line="21" column="0" selection-start="574" selection-end="574" vertical-scroll-proportion="0.6420863">
               <folding />
             </state>
           </provider>
@@ -69,7 +71,7 @@
       <file leaf-file-name="converter.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/converter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="41" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+            <state line="14" column="31" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -96,6 +98,7 @@
         <option value="$PROJECT_DIR$/SpecRunner.html" />
         <option value="$PROJECT_DIR$/js/vendor/converter.js" />
         <option value="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
+        <option value="$PROJECT_DIR$/js/converter.js" />
         <option value="$PROJECT_DIR$/test/SpecRunner.html" />
       </list>
     </option>
@@ -178,43 +181,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spec" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasmine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasmine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasmine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jasmine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -262,6 +229,7 @@
       <recent name="C:\Users\Paul\Desktop\jasmine\test\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Paul\Desktop\jasmine\test\js" />
       <recent name="C:\Users\Paul\Desktop\jasmine\js" />
       <recent name="C:\Users\Paul\Desktop\jasmine\test" />
     </key>
@@ -388,7 +356,11 @@
       <created>1393445798092</created>
       <updated>1393445798092</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Converter.js moved to js folder">
+      <created>1393445921557</created>
+      <updated>1393445921557</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -458,7 +430,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added spec/ConverterSpec added to specRunner" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converter.js moved to js folder" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -476,6 +448,7 @@
     <MESSAGE value="move html file into test folder" />
     <MESSAGE value="Converter added with some skeleton code" />
     <MESSAGE value="added spec/ConverterSpec added to specRunner" />
+    <MESSAGE value="Converter.js moved to js folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -497,21 +470,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/converter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="41" selection-start="183" selection-end="183" vertical-scroll-proportion="0.0">
+        <state line="14" column="31" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/spec/ConverterSpec.js">
+    <entry file="file://$PROJECT_DIR$/test/js/ConverterSpec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="25" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
+        <state line="9" column="39" selection-start="368" selection-end="368" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SpecRunner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="49" selection-start="658" selection-end="658" vertical-scroll-proportion="0.48920864">
+        <state line="21" column="0" selection-start="574" selection-end="574" vertical-scroll-proportion="0.6420863">
           <folding />
         </state>
       </provider>

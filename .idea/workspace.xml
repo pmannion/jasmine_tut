@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88dd46ad-7ea8-4e18-a140-8634f95c003d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/spec/ConverterSpec.js" afterPath="$PROJECT_DIR$/test/spec/ConverterSpec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/js/converter.js" afterPath="$PROJECT_DIR$/test/js/converter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jasmine.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393449486879" ignored="false" />
+    <file path="/Dummy.txt" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393450139870" ignored="false" />
     <file path="/SpecRunner.html" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393448276081" ignored="false" />
     <file path="/converter.js" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393449249570" ignored="false" />
     <file path="/ConverterSpec.js" changelist="88dd46ad-7ea8-4e18-a140-8634f95c003d" time="1393449131058" ignored="false" />
@@ -426,7 +424,11 @@
       <created>1393449489752</created>
       <updated>1393449489752</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change to test missing semi colon">
+      <created>1393450142259</created>
+      <updated>1393450142259</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -496,7 +498,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="error relating to case sensitvity resolved&#10;test for check positive number added" />
+    <option name="LAST_COMMIT_MESSAGE" value="change to test missing semi colon" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -517,6 +519,7 @@
     <MESSAGE value="Converter.js moved to js folder" />
     <MESSAGE value="ConverterSpec.js moved to js folder" />
     <MESSAGE value="error relating to case sensitvity resolved&#10;test for check positive number added" />
+    <MESSAGE value="change to test missing semi colon" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

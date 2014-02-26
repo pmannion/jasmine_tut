@@ -19,7 +19,7 @@ var Converter = (function(){
         checkIsPositiveNumber: function(number){
             var number = parseInt(number);
             if (number < 0){
-                throw new Error ("not a positive number")
+                throw new Error ("not a positive number");
             }
         }
     }

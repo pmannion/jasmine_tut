@@ -9,7 +9,7 @@ describe ("My Converter", function() {
         {Converter.convertFromImperialToMetric("hello")}).toThrow(new Error("not a number"));
     })
 
-    it("should be a valid number", function(){
+    it("should be a positive number", function(){
         expect(function()
         {Converter.checkIsPositiveNumber(-2)}).toThrow(new Error("not a positive number"));
     })
